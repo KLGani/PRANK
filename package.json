@@ -1,4 +1,10 @@
-{
+
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "start": "vite preview --host 0.0.0.0 --port $PORT"
+}{
   "name": "react-vite-tailwind",
   "private": true,
   "version": "0.0.0",
